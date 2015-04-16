@@ -1,0 +1,12 @@
+{
+  "name": "keycloak-nodejs-application",
+  "version": "0.1.0",
+  "devDependencies": {},
+  "dependencies": {
+    "connect-keycloak": "0.0.13",
+    "express": "^4.12.3",
+    "express-session": "^1.11.1",
+    "install": "^0.1.8",
+    "npm": "^2.7.6"
+  }
+}
