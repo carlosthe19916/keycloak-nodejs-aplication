@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "devDependencies": {},
   "dependencies": {
-    "connect-keycloak": "0.0.13",
+    "connect-keycloak": "0.0.16",
     "express": "^4.12.3",
     "express-session": "^1.11.1",
-    "install": "^0.1.8",
-    "npm": "^2.7.6"
+    "install": "^0.11.0",
+    "npm": "^5.8.0"
   }
 }
